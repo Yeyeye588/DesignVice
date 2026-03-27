@@ -1,0 +1,17 @@
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/vocab.txt
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/tokenizer.json
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/README.md
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/modules.json
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/pytorch_model.bin
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/model.safetensors
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/configuration.json
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/config_sentence_transformers.json
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/config.json
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/1_Pooling/config.json
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/.mv
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/.msc
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/.mdl
+.env
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/special_tokens_map.json
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/sentence_bert_config.json
+modelscope/hub/models/AI-ModelScope/bge-large-zh-v1.5/tokenizer_config.json
